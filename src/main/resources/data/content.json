@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "title": "Spring Data JDBC",
+    "desc": "All about of spring Data JDBC",
+    "status": "IDEA",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-12-31T13:55:13.280686",
+    "dateUpdated": null,
+    "url": "https://youtu.be"
+  },
+  {
+    "id": null,
+    "title": "Spring Batch",
+    "desc": "All about of spring Batch",
+    "status": "PUBLISHED",
+    "contentType": "VIDEO",
+    "dateCreated": "2024-01-01T12:55:13.280686",
+    "dateUpdated": null,
+    "url": "https://youtu.be"
+  },
+  {
+    "id": null,
+    "title": "VSCode Plug-In",
+    "desc": "Plug-In for VSCode",
+    "status": "IN_PROGRESS",
+    "contentType": "ARTICLE",
+    "dateCreated": "2024-01-03T10:00:00.280686",
+    "dateUpdated": null,
+    "url": "https://youtu.be"
+  },
+  {
+    "id": null,
+    "title": "ChatGPT for Developers",
+    "desc": "ChatGPT for Developers",
+    "status": "IDEA",
+    "contentType": "VIDEO",
+    "dateCreated": "2024-01-05T09:55:13.280686",
+    "dateUpdated": null,
+    "url": "https://youtu.be"
+  }
+]
